@@ -1,4 +1,14 @@
 <?php
+
+
+/*
+martinez, lesther
+allado, aerun,
+frias, camille,
+postrero, tristan
+soria, lyara
+
+ */
 session_start();
 
 
